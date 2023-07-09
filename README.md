@@ -24,9 +24,9 @@
     <section>
       <h2>Links</h2>
       <ul>
-        <li><a href="https://www.example.com">Example Website</a></li>
-        <li><a href="about.html">About</a></li>
-        <li><a href="contact.html">Contact</a></li>
+        <li><a href="ksemiulahi@gmail.com"> Email</a></li>
+        <li><a href="https://www.linkedin.com/in/semiukolapo/">About</a></li>
+      
       </ul>
     </section>
   </main>
