@@ -10,5 +10,5 @@ Welcome to my GitHub Pages site! Here are some bullet points:
 
 [Link to Google](https://www.google.com)
 
-<iframe src="https://ksemiu.github.io/my-portfolio/Churn Analysis Presentation - April 17, 2023.pdf" width="100%" height="600px"></iframe>
+<iframe src="https://github.com/ksemiu/ksemiu.github.io/blob/main/Churn%20Analysis%20Presentation%20-%20April%2017%2C%202023.pdf" width="100%" height="600px"></iframe>
 
