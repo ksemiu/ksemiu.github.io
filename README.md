@@ -6,13 +6,13 @@
 </head>
 <body>
   <header>
-    <h1>Welcome to My Page</h1>
+    <h1>Semiu Kolapo</h1>
   </header>
   
   <main>
     <section>
-      <h2>About Me</h2>
-      <p>This is a brief introduction about myself.</p>
+      <h2>Projectse</h2>
+      <p>Churn Analysis; EDA and Predictive modeling/classification.</p>
     </section>
     
     <section>
