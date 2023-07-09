@@ -11,7 +11,7 @@
   
   <main>
     <section>
-      <h2>Projectse</h2>
+      <h2>Projects</h2>
       <p>Churn Analysis; EDA and Predictive modeling/classification.</p>
     </section>
     
