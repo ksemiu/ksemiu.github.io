@@ -1,6 +1,6 @@
 /* styles.css */
 body {
-  font-family: Arial, sans-serif;
+  font-family: "Arial", sans-serif;
   margin: 0;
   padding: 0;
   background-color: #f9f9f9;
@@ -21,6 +21,8 @@ header {
 
 header h1 {
   margin: 0;
+  font-size: 32px;
+  font-weight: bold;
 }
 
 nav ul {
@@ -38,6 +40,7 @@ nav ul li {
 nav ul li a {
   text-decoration: none;
   color: #fff;
+  font-size: 18px;
 }
 
 main {
@@ -49,12 +52,14 @@ section {
 }
 
 h2 {
-  font-size: 24px;
+  font-size: 28px;
   margin-bottom: 10px;
+  font-weight: bold;
 }
 
 p {
   margin: 0 0 20px;
+  font-size: 16px;
 }
 
 .google-slides {
@@ -77,4 +82,5 @@ footer {
   color: #fff;
   padding: 20px 0;
   text-align: center;
+  font-size: 14px;
 }
