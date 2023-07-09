@@ -10,4 +10,4 @@ Welcome to my GitHub Pages site! Here are some bullet points:
 
 [Link to Google](https://www.google.com)
 
-<iframe src="https://ksemiu.github.io/repository-name/path-to-your-pdf.pdf" width="100%" height="600px"></iframe>
+<iframe src="https://ksemiu.github.io/my-portfolio/Churn Analysis Presentation - April 17, 2023.pdf" width="100%" height="600px"></iframe>
